@@ -1,0 +1,227 @@
+{
+  "cannon_turret": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/ac9dd707-0593-4471-8ade-d411f791a0f9.webp",
+    "type": "image",
+    "prompt": "Increase the size of the provided cannon_turret image by 50%. Scale up all dimensions proportionally while maintaining the same minimalist cute aesthetic, rounded edges, stubby proportions, clean cel-shading, vibrant cyan glow on the barrel, and thick line art. The turret is from a top-down perspective and is flipped vertically to point downwards. Ensure the output is 1.5x larger than the input image. Keep the background transparent.",
+    "description": "A top-down view of a simple, cute defensive turret with a glowing cyan barrel, flipped vertically to fire downward, increased in size by 50%.",
+    "subtype": "object",
+    "aspect_ratio": [
+      556,
+      642
+    ],
+    "compression_suggestion": "low",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "block_destroy_particle": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/c15c01e5-93df-48c6-bc37-d2d8af1f7ce2.webp",
+    "type": "image",
+    "prompt": "Generate a small, glowing geometric shard or fragment, approximately 16x16 pixels, for a block destruction particle effect in a sci-fi arcade game. The particle should have a bright, energetic cyan/white glow, resembling shattered energy or light. It requires a transparent background and should be high-contrast to be visible against a dark blue/black background when spawned in multiples and animated.",
+    "description": "A small particle effect sprite for block destruction.",
+    "subtype": "effect",
+    "aspect_ratio": [
+      491,
+      472
+    ],
+    "compression_suggestion": "high",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "jelly_pop_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/dd048c02-c0b2-4106-b1c9-afa9fa5b2b65.mp3",
+    "type": "audio",
+    "prompt": "Soft, subtle organic pop sound effect, like a muffled popcorn kernel popping under a thick blanket or a finger flicking a hollow gourd. Deep, muffled, very short duration, no high-pitched treble, satisfying low-end 'thworp' sound. Minimalist and clean. Volume increased by 25% from its current level.",
+    "description": "A soft, subtle organic pop sound for when the ball hits a brick, now with increased volume.",
+    "subtype": "effect",
+    "aspect_ratio": null,
+    "compression_suggestion": "original",
+    "duration_secs": 0.48,
+    "loop": false,
+    "animation": null
+  },
+  "skill_icon_projectile": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/87166929-2092-4fa5-a0e5-ac6917c7ba4e.webp",
+    "type": "image",
+    "prompt": "Redraw a 2D casual mobile game icon. It features a large, glowing cyan sphere with a soft white glassy highlight on top. Next to the sphere, there is a smaller, puffy lime-green plus symbol (+). The icon should have bold dark outlines, vibrant 2D gradients from cyan to deep blue, glossy glass highlights, and rounded chunky shapes. It must be clean professional vector art with a transparent background, a juicy toy-like texture, and no metallic or fantasy elements. The sphere should be the dominant element.",
+    "description": "A 2D casual game icon of a glowing cyan sphere with a soft white glassy highlight on top, next to a large, puffy lime-green plus symbol (+).",
+    "subtype": "ui",
+    "aspect_ratio": [
+      889,
+      865
+    ],
+    "compression_suggestion": "medium",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "skill_icon_damage": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/01420dbd-62b3-4e63-ba62-00724207b3ac.webp",
+    "type": "image",
+    "prompt": "Generate a 2D casual game icon of a chunky, rounded lightning bolt. It should have a vibrant gradient from deep red to bright orange. Include thick dark outlines and glossy 'shine' lines on the edges for a juicy, toy-like effect. The style should be clean professional vector art with rounded chunky shapes, high contrast, and a transparent background. No metallic or fantasy elements.",
+    "description": "Skill icon for 'Extra Damage' ability",
+    "subtype": "ui",
+    "aspect_ratio": [
+      728,
+      925
+    ],
+    "compression_suggestion": "high",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "skill_icon_critical": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/529168a6-7731-4e4a-9b05-defd2c84b02f.webp",
+    "type": "image",
+    "prompt": "Redraw this icon as a 2D casual game icon featuring a bright golden-yellow \"action burst\" star with 8 rounded points. The star should have a vibrant yellow-to-orange gradient, glossy white highlights on the tips, and bold dark outlines. The text \"CRIT\" should be displayed prominently inside the center of the star in bold white letters with a dark outline. Use a minimalist comic style with very juicy and high-contrast appearance. Include bold dark outlines, vibrant 2D gradients, glossy glass highlights, rounded chunky shapes, and clean professional vector art. The background should be transparent. The overall texture should be juicy and toy-like with no metallic or fantasy elements.",
+    "description": "A 2D casual game icon for Critical Damage, featuring a golden-yellow action burst star with 'CRIT' text.",
+    "subtype": "ui",
+    "aspect_ratio": [
+      909,
+      892
+    ],
+    "compression_suggestion": "medium",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "skill_icon_remote": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/380c8de8-f801-4818-b8b2-efdbab4169e8.webp",
+    "type": "image",
+    "prompt": "Generate a 2D casual game icon of a short, oversized 'fat' rocket. Use a lime-green and bright orange color scheme. It should have thick bold black outlines, rounded puffy edges, a glossy 'glassy' finish, and a simple geometric silhouette. The icon should have a juicy toy-like texture, no metallic or fantasy elements, and a transparent background. The rocket should be centered and prominent, in a clean professional vector art style suitable for a casual mobile game.",
+    "description": "A 2D casual game icon of a short, oversized 'fat' rocket in lime-green and bright orange.",
+    "subtype": "ui",
+    "aspect_ratio": [
+      902,
+      950
+    ],
+    "compression_suggestion": "medium",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "skill_icon_insta_kill": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/38277079-7af1-4796-bef5-d4bab671682d.webp",
+    "type": "image",
+    "prompt": "Create a casual mobile game icon: A white, glossy, rounded sphere with a friendly, cartoonish bone-colored skull mask on its front. Use bold dark outlines, vibrant 2D gradients, glossy glass highlights, and rounded chunky shapes. The texture should be juicy and toy-like. Transparent background. No metallic or fantasy elements. Professional vector art.",
+    "description": "A casual mobile game icon for the 'Insta Kill' skill, featuring a white ball wearing a skull mask.",
+    "subtype": "ui",
+    "aspect_ratio": [
+      950,
+      945
+    ],
+    "compression_suggestion": "high",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "brick_destroy_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/a67dc9d3-5f15-44bc-b032-b0794b2a6084.mp3",
+    "type": "audio",
+    "prompt": "Very soft, muffled pop, subtle airy thud, gentle bubble burst, ASMR, quiet, less harsh, satisfying.",
+    "description": "A soft, muffled pop/plop sound effect for when a brick is destroyed, now much quieter and softer.",
+    "subtype": "effect",
+    "aspect_ratio": null,
+    "compression_suggestion": "original",
+    "duration_secs": 0.32,
+    "loop": false,
+    "animation": null
+  },
+  "skill_discovery_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/c7ce4ca7-e15a-4343-a053-6ac87891037a.mp3",
+    "type": "audio",
+    "prompt": "Minimalist velvet ticking, slow rhythmic 'pock-pock-pock,' smooth mechanical reel motion, landing on a soft shimmering 'wash' sound, slot machine reveal, extremely subtle, zero sharp edges, high-fidelity, boutique game UI. Ensure the sound is very soft overall, quick in duration, and has a smooth, natural fade-out at the end with no clicks, pops, or unwanted artifacts.",
+    "description": "Extremely soft, smooth, minimalist ASMR sound for skill selection screen appearing, like velvet ticking and a shimmering wash reveal, whisper-like in subtlety, with a clean fade-out.",
+    "subtype": "effect",
+    "aspect_ratio": null,
+    "compression_suggestion": "original",
+    "duration_secs": 1.4,
+    "loop": false,
+    "animation": null
+  },
+  "upgrade_applied_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/9bc35c3a-28f6-43fb-ac11-93b7723debf0.mp3",
+    "type": "audio",
+    "prompt": "Rapid-fire soft-skin drum rolls, hollow bamboo clacks in a rhythmic flurry, culminating in a powerful deep bass-drum impact with a tonal wooden ring, massive natural echo and reverberation, earthy and grand, high-fidelity, ultimate organic jackpot celebration sound, 1-1.5 seconds duration, significantly louder and more impactful.",
+    "description": "Significantly louder and more impactful organic jackpot sound for skill upgrades, with rapid-fire soft-skin drum rolls, hollow bamboo clacks, a powerful deep bass-drum impact with a tonal wooden ring, and massive natural echo and reverberation. Earthy and grand, high-fidelity, purely organic percussion, 1-1.5 seconds duration.",
+    "subtype": "effect",
+    "aspect_ratio": null,
+    "compression_suggestion": "original",
+    "duration_secs": 1.150453514739229,
+    "loop": false,
+    "animation": null
+  },
+  "skill_icon_bomb": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/ee10e80e-fcf7-4ed3-a50a-1b0401360055.webp",
+    "type": "image",
+    "prompt": "Create a 2D casual mobile game icon. Feature a round black bomb with a lit fuse on top. The bomb should have a glossy, shiny appearance with white highlights. The fuse should be glowing orange/red to indicate it's lit and active. Use a bright, energetic art style consistent with other skill icons (casual, colorful aesthetic). Transparent background. Square aspect ratio, suitable for 175x175px display.",
+    "description": "A 2D casual mobile game icon for the 'Bomb' skill, featuring a round black bomb with a lit fuse and a glossy appearance.",
+    "subtype": "ui",
+    "aspect_ratio": [
+      862,
+      879
+    ],
+    "compression_suggestion": "medium",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "skill_icon_stacking_damage": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/c19a8946-fe1d-4adc-852f-938bc6febe3f.webp",
+    "type": "image",
+    "prompt": "Generate a circular 2D flat vector icon for a mobile game UI. The icon features a polished golden sphere with thick dark outlines. A sharp neon cyan lightning bolt, with its tip forming an arrow pointing upwards, cuts through the center of the sphere. Add electric cyan sparks around the lightning. Use golden metallic gradients (yellow and amber tones) for the sphere, with bouncy rim lighting for a 3D effect. The style should be clean, bold, and vibrant, conveying power and energy. Isolated on a transparent background.",
+    "description": "A circular skill icon for the Stacking Damage ability, featuring a polished golden sphere with a neon cyan lightning bolt pointing upwards, surrounded by electric sparks, in a mobile game UI style.",
+    "subtype": "ui",
+    "aspect_ratio": [
+      857,
+      873
+    ],
+    "compression_suggestion": "medium",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "tutorial_hand": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/c10bebaa-7de8-45b6-b2b1-b2754ceb8b82.webp",
+    "type": "image",
+    "prompt": "Modify the animation for the existing 'tutorial_hand' asset. It should start at its current position, then move 100 pixels higher to overlap the skill card when fully extended upward, and then return to the starting position to complete the loop. The animation should be a smooth, continuous vertical (up and down) motion, with this larger range. Update the CSS animation keyframes to reflect this increased vertical range (from 0px to -100px movement at the peak). The hand asset itself should remain as the current one, only its animation should change.",
+    "description": "A stylized white hand for a tutorial UI overlay, rotated 90 degrees clockwise to point upwards, with an emphasized vertical animation.",
+    "subtype": "ui",
+    "aspect_ratio": [
+      710,
+      993
+    ],
+    "compression_suggestion": "high",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "skill_icon_burning_bricks": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/632144f0-a480-4a2f-a22f-5a0566ca6271.webp",
+    "type": "image",
+    "prompt": "Create a 2D casual mobile game icon for the 'Burning Bricks' skill. The icon should feature a brick or stack of bricks with red, orange, and yellow flames/fire effects around it. The style should match other skill icons: vibrant, glossy, with bold dark outlines, and a clean professional vector art feel. Include a sense of heat and energy with glowing effects. Transparent background, juicy toy-like texture, no metallic or fantasy elements.",
+    "description": "2D casual mobile game icon for the 'Burning Bricks' skill, featuring a brick or stack of bricks with fire effects.",
+    "subtype": "ui",
+    "aspect_ratio": [
+      790,
+      898
+    ],
+    "compression_suggestion": "medium",
+    "duration_secs": null,
+    "loop": null,
+    "animation": null
+  },
+  "cannon_shoot_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/c02c38bb-f0db-41bc-b441-303d63743a47.mp3",
+    "type": "audio",
+    "prompt": "Soft hollow wood block tap, isolated percussion, warm organic thud, minimalist boutique SFX, no echo, muted attack, satisfying tactile pop, high-fidelity, brief.",
+    "description": "Subtle, soft hollow wood block tap sound effect for when the cannon fires a ball.",
+    "subtype": "effect",
+    "aspect_ratio": null,
+    "compression_suggestion": "original",
+    "duration_secs": 0.14,
+    "loop": false,
+    "animation": null
+  }
+}
